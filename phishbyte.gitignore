@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+.venv/
+venv/
+env/
+
+# PhishByte output
+*.phishbyte.json
+reports/
+
+# Samples / test emails (don't commit real suspicious mail)
+samples/
+*.eml
+*.msg
+!tests/fixtures/*.eml
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+*.swp
