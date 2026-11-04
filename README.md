@@ -6,6 +6,8 @@ PhishByte inspects a suspicious email the way an analyst would — reading the r
 
 > PhishByte **analyzes** phishing email you received. It is not a phishing *simulation* tool and never sends anything.
 
+<img width="1908" height="2332" alt="image" src="https://github.com/user-attachments/assets/f9f5f9c7-6dc0-47e4-9582-c79b77245967" />
+
 ---
 
 ## Table of Contents
